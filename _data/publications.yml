@@ -1,0 +1,21 @@
+main:
+
+  - title: Approximation Algorithms for Smallest Intersecting Balls
+    authors: <strong>Jiaqi Zheng</strong>, Tiow-Seng Tan
+    conference: Preprint, 2024
+    pdf: https://arxiv.org/pdf/2406.11369
+    arxiv: https://arxiv.org/abs/2406.11369
+
+  - title: A Primal-Dual Framework for Symmetric Cone Programming
+    authors: <strong>Jiaqi Zheng</strong>, Antonios Varvitsiotis, Tiow-Seng Tan, Wayne Lin
+    conference: Preprint, 2024
+    pdf: https://arxiv.org/pdf/2405.09157
+    arxiv: https://arxiv.org/abs/2405.09157
+
+  - title: Computing Centroidal Voronoi Tessellation Using the GPU
+    authors: <strong>Jiaqi Zheng</strong>, Tiow-Seng Tan
+    conference: Interactive 3D Graphics and Games <strong>(I3D)</strong>, 2020
+    conference_short: I3D
+    pdf: https://www.comp.nus.edu.sg/~tants/cvt_files/cvt.pdf
+    page: https://www.comp.nus.edu.sg/~tants/cvt.html
+    code: https://github.com/orzzzjq/gCentroidal-Voronoi-Tessellation
