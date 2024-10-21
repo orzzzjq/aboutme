@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am a final year CS Ph.D. student at National University of Singapore. I am fortunate to be advised by [Tiow-Seng Tan](https://www.comp.nus.edu.sg/~tants/).
-I will be visiting [Herbert Edelsbrunner](http://pub.ist.ac.at/~edels/)'s Group at IST Austria from October 2024.
+I am visiting [Herbert Edelsbrunner](http://pub.ist.ac.at/~edels/)'s Group at IST Austria from October 2024.
 
 My research interests include convex optimization, computational geometry, and parallel computing (GPGPU). I have a broad interest in both theoretical and practical aspects of algorithm design.
 
