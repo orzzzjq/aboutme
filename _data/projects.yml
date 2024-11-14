@@ -1,16 +1,18 @@
 main:
+  - title: LIBSIB (to be released)
+    description: A C++ library for computing <i>Smallest Intersecting Balls</i> for point sets, convex polytopes, reduced polytopes, AABBs, balls and ellipsoids in arbitrary dimensions.
 
   - title: PDSCP (to be released)
-    description: A library for computing <i>Smallest Enclosing Balls</i> and <i>Support Vector Machines</i> in high-dimensional spaces using GPU, which is a practical demonstration of our <a href="https://arxiv.org/abs/2405.09157" target="_blank">primal-dual algorithmic framework</a> for solving Symmetric Cone Programs.
+    description: A library for computing <i>Smallest Enclosing Balls</i> and <i>Support Vector Machines</i> in high-dimensional spaces using GPU. It is a practical demonstration of our <a href="https://arxiv.org/abs/2405.09157" target="_blank" style="color:gray;">primal-dual algorithmic framework</a> for solving Symmetric Cone Programs.
 
   - title: PosLP (to be released)
-    description: A library for solving <i>Positive Linear Programs</i> using GPU, which implements and improves the linear coupling algorithm proposed by <a href="https://arxiv.org/abs/1407.1925" target="_blank">Allen-Zhu and Orecchia</a>.
+    description: A library for solving <i>Positive Linear Programs</i> using GPU, which implements and improves the linear coupling algorithm proposed by <a href="https://arxiv.org/abs/1407.1925" target="_blank" style="color:gray;">Allen-Zhu and Orecchia</a>.
 
   - title: PBA+
     link: https://github.com/orzzzjq/Parallel-Banding-Algorithm-plus
     stars: 73
     forks: 8
-    description: The most efficient open-sourced library for computing 2D and 3D <i>Digital Voronoi Diagrams</i> using GPU, which processes very large input images (up to 32K x 32K pixels) within a second. The source code has been integrated into game engines and motion-planning projects.
+    description: The most efficient open-sourced library for computing 2D and 3D <i>Digital Voronoi Diagrams</i> using GPU. It can process very large input images (up to 32K x 32K pixels) within a second. The source code has been integrated into game engines and motion-planning projects.
 
   - title: gCVT
     link: https://github.com/orzzzjq/gCentroidal-Voronoi-Tessellation
