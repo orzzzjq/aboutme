@@ -1,5 +1,6 @@
 main:
-  - title: LIBSIB (to be released)
+  - title: LIBSIB
+    link: https://github.com/orzzzjq/libsib
     description: A C++ library for computing <i>Smallest Intersecting Balls</i> for point sets, convex polytopes, reduced polytopes, AABBs, balls and ellipsoids in arbitrary dimensions.
 
   - title: PDSCP (to be released)
