@@ -1,5 +1,13 @@
 main:
 
+  - title: "Smallest Intersecting and Enclosing Balls"
+    authors: <strong>Jiaqi Zheng</strong>, Tiow-Seng Tan
+    conference: "International Symposium on Computational Geometry: Young Researchers Forum <strong>(SoCG:YRF)</strong>, 2025"
+
+  - title: "Symmetric Cone Eigenvalue Optimization: Expressivity and Algorithms through Equilibrium Computation"
+    authors: <strong>Jiaqi Zheng</strong>, Antonios Varvitsiotis
+    conference: International Conference on Continuous Optimization <strong>(ICCOPT)</strong>, 2025
+
   - title: Approximation Algorithms for Smallest Intersecting Balls
     authors: <strong>Jiaqi Zheng</strong>, Tiow-Seng Tan
     conference: Preprint, 2024
@@ -15,7 +23,6 @@ main:
   - title: Computing Centroidal Voronoi Tessellation Using the GPU
     authors: <strong>Jiaqi Zheng</strong>, Tiow-Seng Tan
     conference: Interactive 3D Graphics and Games <strong>(I3D)</strong>, 2020
-    conference_short: I3D
     pdf: https://www.comp.nus.edu.sg/~tants/cvt_files/cvt.pdf
     page: https://www.comp.nus.edu.sg/~tants/cvt.html
     code: https://github.com/orzzzjq/gCentroidal-Voronoi-Tessellation
