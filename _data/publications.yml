@@ -3,10 +3,8 @@ main:
   - title: "Smallest Intersecting and Enclosing Balls"
     authors: <strong>Jiaqi Zheng</strong>, Tiow-Seng Tan
     conference: "International Symposium on Computational Geometry: Young Researchers Forum <strong>(SoCG:YRF)</strong>, 2025"
-
-  # - title: "Symmetric Cone Eigenvalue Optimization: Expressivity and Algorithms through Equilibrium Computation"
-  #   authors: <strong>Jiaqi Zheng</strong>, Antonios Varvitsiotis
-  #   conference: International Conference on Continuous Optimization <strong>(ICCOPT)</strong>, 2025
+    pdf: https://arxiv.org/pdf/2504.18178
+    arxiv: https://arxiv.org/abs/2504.18178
 
   - title: Approximation Algorithms for Smallest Intersecting Balls
     authors: <strong>Jiaqi Zheng</strong>, Tiow-Seng Tan
