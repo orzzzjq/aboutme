@@ -4,16 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am a final year CS Ph.D. student at National University of Singapore. I am fortunate to be advised by [Tiow-Seng Tan](https://www.comp.nus.edu.sg/~tants/).
-From October 2024 to April 2025, I was visiting [Herbert Edelsbrunner](http://pub.ist.ac.at/~edels/)'s Group at Institute of Science and Technology Austria.
+I am a research engineer at [Sea AI Lab (SAIL)](https://sail.sea.com/), focusing on scientific infrastructure (specifically GPU-native computational frameworks) for electronic structure theory and AI for science.
 
-My research interests include convex optimization, computational geometry, and parallel computing (GPGPU). I have a broad interest in both theoretical and practical aspects of algorithm design.
+Prior to joining SAIL, I obtained my Ph.D. in computer science from National University of Singapore in 2025, where I was fortunate to be advised by [Tiow-Seng Tan](https://www.comp.nus.edu.sg/~tants/) and worked on convex optimization and computational geometry.
+From October 2024 to April 2025, I was a visiting researcher in [Herbert Edelsbrunner](http://pub.ist.ac.at/~edels/)'s group at Institute of Science and Technology Austria, investigating topological data analysis.
 
 ## Research Papers
 
 {% include_relative _includes/publications.md %}
 
-## Development Projects
+## Talks
+
+{% include_relative _includes/talks.md %}
+
+## Software & Libraries
 
 {% include_relative _includes/projects.md %}
 

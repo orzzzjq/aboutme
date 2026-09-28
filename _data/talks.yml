@@ -1,0 +1,25 @@
+main:
+
+  - title: "Towards GPU-Native Electronic Structure Calculations"
+    venue: "<strong> AI4X-AC</strong>, Singapore"
+    date: 2026-06-18
+
+  - title: "Smallest Intersecting and Enclosing Balls"
+    venue: "<strong> SoCG:YRF</strong>, Kanazawa, Japan"
+    date: 2025-06-24
+
+  - title: "An Algorithmic Framework for Geometric Optimization"
+    venue: "<strong> IST Austria</strong>, Klosterneuburg, Austria"
+    date: 2025-04-04
+
+  - title: "Zero-Sum Games over Symmetric Cones as an Algorithmic Framework"
+    venue: "<strong> ETH Zürich</strong>, Zürich, Switzerland"
+    date: 2025-02-20
+
+  - title: "Efficient Algorithms for Symmetric Cone Programming and Geometric Optimization"
+    venue: "<strong> NUS</strong>, Singapore"
+    date: 2024-08-05
+
+  - title: "Computing Centroidal Voronoi Tessellation Using the GPU"
+    venue: "<strong> I3D</strong>, Online Conference"
+    date: 2020-09-18

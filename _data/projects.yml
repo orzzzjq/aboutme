@@ -3,11 +3,11 @@ main:
     link: https://github.com/orzzzjq/libsib
     description: A C++ library for computing <i>Smallest Intersecting Balls</i> for point sets, convex polytopes, reduced polytopes, AABBs, balls and ellipsoids in arbitrary dimensions.
 
-  - title: PDSCP (to be released)
-    description: A library for computing <i>Smallest Enclosing Balls</i> and <i>Support Vector Machines</i> in high-dimensional spaces using GPU. It is a practical demonstration of our <a href="https://arxiv.org/abs/2405.09157" target="_blank" style="color:gray;">primal-dual algorithmic framework</a> for solving Symmetric Cone Programs.
+  # - title: PDSCP (to be released)
+  #   description: A library for computing <i>Smallest Enclosing Balls</i> and <i>Support Vector Machines</i> in high-dimensional spaces using GPU. It is a practical demonstration of our <a href="https://arxiv.org/abs/2405.09157" target="_blank" style="color:gray;">primal-dual algorithmic framework</a> for solving Symmetric Cone Programs.
 
-  - title: PosLP (to be released)
-    description: A library for solving <i>Positive Linear Programs</i> using GPU, which implements and improves the linear coupling algorithm proposed by <a href="https://arxiv.org/abs/1407.1925" target="_blank" style="color:gray;">Allen-Zhu and Orecchia</a>.
+  # - title: PosLP (to be released)
+  #   description: A library for solving <i>Positive Linear Programs</i> using GPU, which implements and improves the linear coupling algorithm proposed by <a href="https://arxiv.org/abs/1407.1925" target="_blank" style="color:gray;">Allen-Zhu and Orecchia</a>.
 
   - title: PBA+
     link: https://github.com/orzzzjq/Parallel-Banding-Algorithm-plus
